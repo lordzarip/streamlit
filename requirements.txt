@@ -4,3 +4,4 @@ Pillow>=10.0.0
 numpy
 pandas
 setuptools<60.0
+Pillow --only-binary=:all:
