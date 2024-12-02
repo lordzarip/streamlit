@@ -1,5 +1,5 @@
 streamlit==1.12.0
-scikit-learn==1.2.1
+scikit-learn>=1.3.0
 Pillow==8.4.0
 numpy
 pandas
